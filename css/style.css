@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+}
+img {
+  margin: 0 auto;
+}
+.container {
+  min-height: 100%;
+  margin-bottom: -20px;  
+}
+.footer{
+  height: 20px;
+  text-align: center;
+}
